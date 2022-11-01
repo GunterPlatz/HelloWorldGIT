@@ -1,8 +1,7 @@
-# Cabecera 1
-## Cabecera 2
-### Cabecera 3
-#### Cabecera 4
-##### Cabecera 5
-###### Cabecera 6
 
-Hola holita, vecinito.
+
+- formato *cursiva* de la primera forma.
+- formato _cursiva_ de la segunda forma.
+- formato **negrita** de la primera forma
+- formato __negrita__ de la segunda forma
+- formato ~~tachado~~ 
