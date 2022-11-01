@@ -1,7 +1,4 @@
+# Links
 
-
-- formato *cursiva* de la primera forma.
-- formato _cursiva_ de la segunda forma.
-- formato **negrita** de la primera forma
-- formato __negrita__ de la segunda forma
-- formato ~~tachado~~ 
+- [Esto es un link a URL en markdown](https://google.es)
+- [Esto es un link al fichero index de mi proyecto de GITHUB](index.html)
